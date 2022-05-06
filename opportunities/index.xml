@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opportunities on Entwine Centre</title>
+    <link>/opportunities/</link>
+    <description>Recent content in Opportunities on Entwine Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright><atom:link href="/opportunities/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

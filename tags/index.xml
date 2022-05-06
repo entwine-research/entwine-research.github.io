@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Entwine Centre</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Entwine Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright>
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General</title>
+      <link>/tags/general/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outreach</title>
+      <link>/tags/outreach/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>growth</title>
+      <link>/tags/growth/</link>
+      <pubDate>Mon, 10 May 2021 02:00:00 +0000</pubDate>
+      
+      <guid>/tags/growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scale</title>
+      <link>/tags/scale/</link>
+      <pubDate>Mon, 10 May 2021 02:00:00 +0000</pubDate>
+      
+      <guid>/tags/scale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

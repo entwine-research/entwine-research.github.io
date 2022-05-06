@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News on Entwine Centre</title>
+    <link>/blog/</link>
+    <description>Recent content in Latest News on Entwine Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright>
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New website launches today</title>
+      <link>/blog/launch/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/launch/</guid>
+      <description>Hello Everyone! The new Entwine website has just been launched. There won&amp;rsquo;t be many blog posts here at launch, but stay tuned!</description>
+    </item>
+    
+    <item>
+      <title>Legacy website</title>
+      <link>/blog/blog-post-2/</link>
+      <pubDate>Fri, 25 Mar 2022 01:00:00 +0000</pubDate>
+      
+      <guid>/blog/blog-post-2/</guid>
+      <description>Farewell old website! The old website is still accessible here at the time of posting but eventually will redirect to our new home, and those pages will be gone forever&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Entwine membership growth</title>
+      <link>/blog/blog-post-3/</link>
+      <pubDate>Mon, 10 May 2021 02:00:00 +0000</pubDate>
+      
+      <guid>/blog/blog-post-3/</guid>
+      <description>From Baseball to Football! When we established Entwine a few years ago, the number of academics involved would be enough to form a baseball team.</description>
+    </item>
+    
+  </channel>
+</rss>

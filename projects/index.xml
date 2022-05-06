@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Projects on Entwine Centre</title>
+    <link>/projects/</link>
+    <description>Recent content in Our Projects on Entwine Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pathfinder</title>
+      <link>/projects/pathfinder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/pathfinder/</guid>
+      <description>Pathfinder I and Pathfinder II PIs: Derek Molloy (Entwine), Conor Brennan (School of Electronic Engineering, DCU) The Pathfinder project was funded under the Enterprise Ireland Commercialisation Fund and commenced in March 2018.</description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>/projects/placeholder-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/placeholder-1/</guid>
+      <description>More to follow We will populate these project pages by or soon after the website launch date</description>
+    </item>
+    
+    <item>
+      <title>Placeholder II</title>
+      <link>/projects/placeholder-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/placeholder-2/</guid>
+      <description>More to follow We will populate these project pages by or soon after the website launch date</description>
+    </item>
+    
+  </channel>
+</rss>
