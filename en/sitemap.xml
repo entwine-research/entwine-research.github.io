@@ -141,6 +141,10 @@
   </url><url>
     <loc>/people/ali_intizar/</loc>
   </url><url>
+    <loc>/projects/bmrpp/</loc>
+  </url><url>
+    <loc>/projects/boat/</loc>
+  </url><url>
     <loc>/people/conor_mcardle/</loc>
   </url><url>
     <loc>/people/darragh_obrien/</loc>
@@ -153,9 +157,13 @@
   </url><url>
     <loc>/contact/</loc>
   </url><url>
+    <loc>/projects/input_h2020/</loc>
+  </url><url>
     <loc>/people/jennifer_bruton/</loc>
   </url><url>
     <loc>/people/liam_meany/</loc>
+  </url><url>
+    <loc>/projects/lowlow/</loc>
   </url><url>
     <loc>/expertise/machine_learning/</loc>
   </url><url>
@@ -179,10 +187,6 @@
   </url><url>
     <loc>/projects/pathfinder/</loc>
   </url><url>
-    <loc>/projects/placeholder-1/</loc>
-  </url><url>
-    <loc>/projects/placeholder-2/</loc>
-  </url><url>
     <loc>/people/prince_anandarajah/</loc>
   </url><url>
     <loc>/expertise/privacy_security/</loc>
@@ -194,6 +198,8 @@
     <loc>/expertise/sensing_actuation/</loc>
   </url><url>
     <loc>/people/shirley_coyle/</loc>
+  </url><url>
+    <loc>/projects/sixfour/</loc>
   </url><url>
     <loc>/expertise/sustainability/</loc>
   </url><url>

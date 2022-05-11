@@ -214,6 +214,24 @@
     </item>
     
     <item>
+      <title>BMRPP: Blockchain-based Multi-Robot Path Planning</title>
+      <link>/ga/en/projects/bmrpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ga/en/projects/bmrpp/</guid>
+      <description>The blockchain is a secure and trustworthy distributed transaction management system that is being extensively researched and developed for various applications and use cases.</description>
+    </item>
+    
+    <item>
+      <title>BOAT: Buffer Overflow Attacks on IoT devices</title>
+      <link>/ga/en/projects/boat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ga/en/projects/boat/</guid>
+      <description>The vulnerability of electronic systems to attacks from hostile agents over the Internet is a matter of growing concern as the digital world becomes increasingly interconnected.</description>
+    </item>
+    
+    <item>
       <title>Conor McArdle</title>
       <link>/ga/en/people/conor_mcardle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -259,6 +277,15 @@
     </item>
     
     <item>
+      <title>INPUT: In-Network Programmability for next-generation personal cloUd service supporT</title>
+      <link>/ga/en/projects/input_h2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ga/en/projects/input_h2020/</guid>
+      <description>The project consortium was led by Consorzio Nazionale Interuniversitario Per Le Telecomunicazioni, Italy (CNET) and funded by Horizon 2020 under Grant Agreement 644672.</description>
+    </item>
+    
+    <item>
       <title>Jennifer Bruton</title>
       <link>/ga/en/people/jennifer_bruton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -274,6 +301,15 @@
       
       <guid>/ga/en/people/liam_meany/</guid>
       <description>Type brief CV here</description>
+    </item>
+    
+    <item>
+      <title>LowLow: Low power, low latency IoT image processing</title>
+      <link>/ga/en/projects/lowlow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ga/en/projects/lowlow/</guid>
+      <description>Bringing real-time image analysis to the Internet of Things (IoT) poses many challenges.</description>
     </item>
     
     <item>
@@ -340,24 +376,6 @@
     </item>
     
     <item>
-      <title>Placeholder</title>
-      <link>/ga/en/projects/placeholder-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ga/en/projects/placeholder-1/</guid>
-      <description>More to follow We will populate these project pages by or soon after the website launch date</description>
-    </item>
-    
-    <item>
-      <title>Placeholder II</title>
-      <link>/ga/en/projects/placeholder-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ga/en/projects/placeholder-2/</guid>
-      <description>More to follow We will populate these project pages by or soon after the website launch date</description>
-    </item>
-    
-    <item>
       <title>Prince Anandarajah</title>
       <link>/ga/en/people/prince_anandarajah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -400,6 +418,15 @@
       
       <guid>/ga/en/people/shirley_coyle/</guid>
       <description>Type brief CV here</description>
+    </item>
+    
+    <item>
+      <title>Six4: 6LoWPAN Forwarding for IoT</title>
+      <link>/ga/en/projects/sixfour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ga/en/projects/sixfour/</guid>
+      <description>Recently, there has been significant interest in the 6LoWPAN standard and its applicability to IoT.</description>
     </item>
     
     <item>
