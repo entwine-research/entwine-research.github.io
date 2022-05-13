@@ -172,7 +172,7 @@
                 <h6 class="mb-0">END DATE</h6>
                 
 		
-                <p class="mb-0">1 Jul, 2022</p>
+                <p class="mb-0">30 Jun, 2022</p>
               </div>
             </div>
           </li>
@@ -213,14 +213,98 @@ relatively short distance between pucks this information is sufficient to suppor
 <p>An additional feature of the system is that the pucks can act as environmental sensors, monitoring, and reporting on local conditions. Alerts can be sent if, for example, a sudden spike in temperature is noted.</p>
     
 <hr>
-<div class="embed video-player" style="width:60%; display: flex;align-items: center;justify-content: center;">
+<div class="embed video-player" style="width:90%; display: flex;align-items: center;justify-content: center;">
     <iframe allow="autoplay" width="640" height="480" src="https://drive.google.com/file/d/1derRqQ94dClDTd7oLoc82rXVBccNwhdZ/preview" allowfullscreen frameborder="0">
     </iframe>
 
 </div>
-<h4 style="font-size: small; width:60%; display: flex;align-items: center;justify-content: center;">
-    <a target="_blank"href ="https://drive.google.com/file/d/1derRqQ94dClDTd7oLoc82rXVBccNwhdZ/preview"> Play on Google Drive</a>
-</h4>
+
+<style>
+     
+    .popup {
+      position: relative;
+      display: inline-block;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      text-decoration: underline blue;
+      color: blue;
+    }
+    
+     
+    .popup .popuptext {
+      visibility: hidden;
+      width: auto;
+      background-color: rgb(240, 235, 235);
+      color: #fff;
+      text-align: left;
+      border-radius: 6px;
+      padding: 8px 8px;
+      position: absolute;
+      z-index: 1;
+      bottom: 125%;
+      left: 50%;
+      margin-left: -80px;
+    }
+    
+     
+    .popup .popuptext::after {
+      content: "";
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      margin-left: -5px;
+      border-width: 5px;
+      border-style: solid;
+      border-color: #555 transparent transparent transparent;
+    }
+    
+     
+    .popup .show {
+      visibility: visible;
+      -webkit-animation: fadeIn 1s;
+      animation: fadeIn 1s;
+    }
+    
+     
+    @-webkit-keyframes fadeIn {
+      from {opacity: 0;} 
+      to {opacity: 1;}
+    }
+    
+    @keyframes fadeIn {
+      from {opacity: 0;}
+      to {opacity:1 ;}
+    }
+    </style>
+  <div class="popup" onclick="gdVidError('1derRqQ94dClDTd7oLoc82rXVBccNwhdZ', 'show')"> Playback problems?
+          <span class="popuptext" id="gdVidPopup_1derRqQ94dClDTd7oLoc82rXVBccNwhdZ">
+          <p>     
+           Google Drive often refuses to stream embedded videos if it dislikes your browser.
+           </p>  
+           <ul>
+            <li>
+              <a target="_blank"href ="https://drive.google.com/file/d/1derRqQ94dClDTd7oLoc82rXVBccNwhdZ/view"> Play on Google Drive</a>
+            </li>
+            <li>
+              <a target="_blank"href ="https://drive.google.com/uc?export=download&id=1derRqQ94dClDTd7oLoc82rXVBccNwhdZ"> Download video</a>
+            </li>
+            <li>
+              <div style = "color: red; " onclick="gdVidError('1derRqQ94dClDTd7oLoc82rXVBccNwhdZ', 'hide')">Close popup </div>
+            </li>
+          </ul>
+          </span>
+        </div>
+       
+<script>
+  function gdVidError(id, action) {
+    var popup = document.getElementById("gdVidPopup_"+id);
+    popup.classList.toggle(action);
+  }
+</script>
+        
 <hr>
 
 
