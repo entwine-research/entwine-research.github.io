@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright>
-    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 02:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List of Entwine Projects</title>
+      <link>/blog/projectlist/</link>
+      <pubDate>Fri, 13 May 2022 02:00:00 +0000</pubDate>
+      
+      <guid>/blog/projectlist/</guid>
+      <description>Project webpages now live We&amp;rsquo;ve added a list of research projects involving Entwine personnel to the website here.</description>
+    </item>
+    
     <item>
       <title>New website launches today</title>
       <link>/blog/launch/</link>
