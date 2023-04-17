@@ -71,6 +71,15 @@
     </item>
     
     <item>
+      <title>SIGAFD: A Smart IoT Gateway for Attrial Fibrillation Detection</title>
+      <link>/projects/sigafd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/sigafd/</guid>
+      <description>Atrial fibrillation (AF) is a cardiac arrhythmia causing the heart to beat erratically.</description>
+    </item>
+    
+    <item>
       <title>Six4: 6LoWPAN Forwarding for IoT</title>
       <link>/projects/sixfour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
