@@ -1698,6 +1698,29 @@
   </div>
 </section>
 
+<script type='text/javascript'>
+
+
+(function()
+{
+  if( window.sessionStorage )
+  {
+    if( !sessionStorage.getItem('firstLoad') )
+    {
+      window.location.reload();
+      sessionStorage['firstLoad'] = true;
+     
+    }
+    else {
+      sessionStorage.removeItem('firstLoad');
+     
+    }
+  }
+})();
+
+</script>
+
+
 
 
 <footer>
