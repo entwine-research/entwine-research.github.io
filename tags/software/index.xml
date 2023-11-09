@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Entwine Centre</title>
+    <link>/tags/software/</link>
+    <description>Recent content in Software on Entwine Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebAssembly and IoT</title>
+      <link>/news/070923-wasm-iot/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/070923-wasm-iot/</guid>
+      <description>WebAssembly and IoT According to a recent survey commissioned by the Linux Foundation, IoT applications were the third most popular &amp;ldquo;use case&amp;rdquo; for WebAssembly (behind the web and data visualisation).</description>
+    </item>
+    
+    <item>
+      <title>RIoT OS Anniversary</title>
+      <link>/news/010223-riot-anniversary/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/010223-riot-anniversary/</guid>
+      <description>10th Anniversary of RIoT OS The RIoT OS is one of the many choices of operating system available for the kinds of embedded processors used in IoT devices.</description>
+    </item>
+    
+  </channel>
+</rss>

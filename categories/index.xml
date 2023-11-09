@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright>
-    <lastBuildDate>Fri, 13 May 2022 02:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>/categories/news/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/news/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Projects</title>
       <link>/categories/projects/</link>
@@ -18,18 +27,9 @@
     </item>
     
     <item>
-      <title>News</title>
-      <link>/categories/news/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Membership</title>
       <link>/categories/membership/</link>
-      <pubDate>Mon, 10 May 2021 02:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Apr 2022 02:00:00 +0000</pubDate>
       
       <guid>/categories/membership/</guid>
       <description></description>

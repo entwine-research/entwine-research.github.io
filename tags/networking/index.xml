@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Entwine Centre</title>
+    <link>/tags/networking/</link>
+    <description>Recent content in Networking on Entwine Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MCU with Wi-Fi</title>
+      <link>/news/300622-wifi-mcu/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/300622-wifi-mcu/</guid>
+      <description>Microcontroller board with Wi-Fi The Raspberry Pi Foundation launched the Raspberry Pi nano W this month.</description>
+    </item>
+    
+  </channel>
+</rss>

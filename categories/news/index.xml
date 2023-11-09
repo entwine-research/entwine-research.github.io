@@ -7,22 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>site developed using customised [Educenter-Hugo](https://themes.gohugo.io/educenter-hugo/) theme</copyright>
-    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT malware concerns</title>
+      <link>/blog/311023-malware/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/311023-malware/</guid>
+      <description>IoT malware concerns According to network security firm Zscaler the number of malware attacks on IoT devices has recently increased fourfold.</description>
+    </item>
+    
+    <item>
+      <title>IoT malware on the rise</title>
+      <link>/news/311022-malware/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/311022-malware/</guid>
+      <description>IoT malware on the rise According to recent analysis by secure cloud company Zscaler, there has been a fivefold increase in IoT malware attacks since 2022.</description>
+    </item>
+    
+    <item>
+      <title>WebAssembly and IoT</title>
+      <link>/news/070923-wasm-iot/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/070923-wasm-iot/</guid>
+      <description>WebAssembly and IoT According to a recent survey commissioned by the Linux Foundation, IoT applications were the third most popular &amp;ldquo;use case&amp;rdquo; for WebAssembly (behind the web and data visualisation).</description>
+    </item>
+    
+    <item>
+      <title>RIoT OS Anniversary</title>
+      <link>/news/010223-riot-anniversary/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/010223-riot-anniversary/</guid>
+      <description>10th Anniversary of RIoT OS The RIoT OS is one of the many choices of operating system available for the kinds of embedded processors used in IoT devices.</description>
+    </item>
+    
+    <item>
+      <title>MCU with Wi-Fi</title>
+      <link>/news/300622-wifi-mcu/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/300622-wifi-mcu/</guid>
+      <description>Microcontroller board with Wi-Fi The Raspberry Pi Foundation launched the Raspberry Pi nano W this month.</description>
+    </item>
+    
     <item>
       <title>New website launches today</title>
-      <link>/blog/launch/</link>
+      <link>/news/250422-launch/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/launch/</guid>
+      <guid>/news/250422-launch/</guid>
       <description>Hello Everyone! The new Entwine website has just been launched. There won&amp;rsquo;t be many blog posts here at launch, but stay tuned!</description>
     </item>
     
     <item>
       <title>Legacy website</title>
-      <link>/blog/blog-post-2/</link>
+      <link>/news/250322-legacy-website/</link>
       <pubDate>Fri, 25 Mar 2022 01:00:00 +0000</pubDate>
       
-      <guid>/blog/blog-post-2/</guid>
+      <guid>/news/250322-legacy-website/</guid>
       <description>Farewell old website! The old website is still accessible here at the time of posting but eventually will redirect to our new home, and those pages will be gone forever&amp;hellip;</description>
     </item>
     

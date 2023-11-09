@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2022-05-13T02:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ga"
@@ -16,7 +19,7 @@
                 />
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-05-13T02:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ga"
@@ -26,6 +29,115 @@
                 rel="alternate"
                 hreflang="en"
                 href="/"
+                />
+  </url><url>
+    <loc>/blog/311023-malware/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/311022-malware/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/malware/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ga"
+                href="/ga/tags/malware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/malware/"
+                />
+  </url><url>
+    <loc>/categories/news/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ga"
+                href="/ga/categories/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/news/"
+                />
+  </url><url>
+    <loc>/tags/security/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ga"
+                href="/ga/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/security/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ga"
+                href="/ga/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/tags/software/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ga"
+                href="/ga/tags/software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/software/"
+                />
+  </url><url>
+    <loc>/news/070923-wasm-iot/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/010223-riot-anniversary/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hardware/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ga"
+                href="/ga/tags/hardware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/hardware/"
+                />
+  </url><url>
+    <loc>/news/300622-wifi-mcu/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/networking/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ga"
+                href="/ga/tags/networking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/networking/"
                 />
   </url><url>
     <loc>/tags/growth/</loc>
@@ -41,10 +153,7 @@
                 href="/tags/growth/"
                 />
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2022-05-13T02:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/projectlist/</loc>
+    <loc>/news/130522-projectlist/</loc>
     <lastmod>2022-05-13T02:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/projects/</loc>
@@ -73,17 +182,20 @@
                 href="/tags/scale/"
                 />
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-05-13T02:00:00+00:00</lastmod>
+    <loc>/news/260422-membership-growth/</loc>
+    <lastmod>2022-04-26T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/membership/</loc>
+    <lastmod>2022-04-26T02:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ga"
-                href="/ga/tags/"
+                href="/ga/categories/membership/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/categories/membership/"
                 />
   </url><url>
     <loc>/tags/general/</loc>
@@ -99,21 +211,8 @@
                 href="/tags/general/"
                 />
   </url><url>
-    <loc>/blog/launch/</loc>
+    <loc>/news/250422-launch/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/news/</loc>
-    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ga"
-                href="/ga/categories/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/news/"
-                />
   </url><url>
     <loc>/tags/outreach/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
@@ -128,24 +227,8 @@
                 href="/tags/outreach/"
                 />
   </url><url>
-    <loc>/blog/blog-post-2/</loc>
+    <loc>/news/250322-legacy-website/</loc>
     <lastmod>2022-03-25T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/blog-post-3/</loc>
-    <lastmod>2021-05-10T02:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/membership/</loc>
-    <lastmod>2021-05-10T02:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ga"
-                href="/ga/categories/membership/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/membership/"
-                />
   </url><url>
     <loc>/expertise/edge_computing/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -169,8 +252,6 @@
   </url><url>
     <loc>/projects/dronedrain/</loc>
   </url><url>
-    <loc>/people/dushyantha_basnayaka/</loc>
-  </url><url>
     <loc>/projects/econet/</loc>
   </url><url>
     <loc>/people/gabriel_muntean/</loc>
@@ -178,8 +259,6 @@
     <loc>/contact/</loc>
   </url><url>
     <loc>/projects/input_h2020/</loc>
-  </url><url>
-    <loc>/people/jennifer_bruton/</loc>
   </url><url>
     <loc>/people/liam_meany/</loc>
   </url><url>
@@ -203,11 +282,7 @@
   </url><url>
     <loc>/projects/</loc>
   </url><url>
-    <loc>/people/pascal_landais/</loc>
-  </url><url>
     <loc>/projects/pathfinder/</loc>
-  </url><url>
-    <loc>/people/prince_anandarajah/</loc>
   </url><url>
     <loc>/expertise/privacy_security/</loc>
   </url><url>
